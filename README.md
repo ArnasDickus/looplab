@@ -1,40 +1,9 @@
-# front-end-template
+# Looplab
 
-Front-end-template, for starting a project without library or framework.
+Looplab is a project. From Udemy tutorial Bootstrap 4 From Scratch With 5 Projects by Brad Traversty. Is not exactly a code along because I used my own template instead of his. Used BEM css filing system, and attempted to write modern jquerry and javascript code. Mostly failling.
 
-## Why should I use this template.
-  
- ### Professional folder structure:
-    src - Developer working files. This is there you write code.
-    temp - Browser load this files. Multiple src files are automaticly transferred to one temp file. To cut down on requests.
-    docs - Optimized website ready for deployment to live server. This is final product.
-  
- ### Configured Gulp
-  It allows you to work on server that updates automatically without the need of refreshing the page.
-  Updating POSTCSS injects your code into a browser without refreshing it.
-  
- ### Configured POSTCSS
-  Allows you to have multiple files, nest your POSTCSS, create variables, mixins, 
- 
- ### Configured Babel
-  Allows you to write modern javascript on multiple files without the worry of browser support.
-  
-  ### Creates Optimized website
-  Prepares files for distribution. For more info check deployment tab.
-  
-  
-  
-  It has installed:
-  GULP - that updates your browser every time you save your project.
-  BABEL - Configured babel that allows you to write modern javascript without the fear of browser support.
-  WEBPACK - Allows you to bundle multiple javascript files instead of having one
-  POSTCSS - Allows you to style 
+Live Version will be available as soon as a project is finished.
 
-* [BABEL](https://github.com/babel/babel) - For writing modern javascript.
-* [WEBPACK](https://github.com/webpack/webpack) - For bundling javascript files.
-* [JQUERY](https://github.com/jquery/jquery) - Javascript library.
-* [POSTCSS](https://github.com/postcss/postcss) - For styling files.
-* [GULP](https://github.com/gulpjs/gulp) - For automating browser.
 
 ## Getting Started
 
@@ -43,10 +12,9 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
 
 What things you need to install the software and how to install them
+NPM install
 
-```
-Node.js from Node.js website. For npm packages.
-```
+[Node](https://nodejs.org/en/download/)
 
 ## Installing
 
@@ -70,15 +38,6 @@ npm install
 To deploy server for editing with gulp enabled:
 ```
 gulp watch
-```
-## Testing
-### Updating versions
-```
-1.Create new branch
-2.Add ^ to all package.json files.
-3.Write npm install in command prompt or gitbash
-4.Check what was updated.
-5.Test the item that was updated.
 ```
 
 ## Icons
@@ -144,4 +103,6 @@ gulp\tasks\build.js
 
 * **Arnas Dickus**
 
-# Looplab
+## Acknowledgments
+
+* Thanks to Brad Traversty for Bootstrap 4 From Scratch With 5 Projects udemy course.
