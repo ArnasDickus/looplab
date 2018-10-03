@@ -2,7 +2,7 @@
 
 Looplab is a project. From Udemy tutorial Bootstrap 4 From Scratch With 5 Projects by Brad Traversty. Is not exactly a code along because I used my own template instead of his. Used BEM css filing system, and attempted to write modern jquerry and javascript code. Mostly failling.
 
-Live Version will be available as soon as a project is finished.
+Live Version [here](https://arnasdickus.github.io/Looplab/)
 
 
 ## Getting Started
