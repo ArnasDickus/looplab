@@ -1,6 +1,6 @@
 # Looplab
 
-Looplab is a project. From Udemy tutorial Bootstrap 4 From Scratch With 5 Projects by Brad Traversty. Is not exactly a code along because I used my own template instead of his. Used BEM css filing system, and attempted to write modern jquerry and javascript code. Mostly failling.
+Looplab is a project. From Udemy tutorial Bootstrap 4 From Scratch With 5 Projects by Brad Traversty. Is not exactly a code along because I used my own template instead of his. Used BEM css filing system, and attempted to write modern jquerry and javascript code. Mostly failling. My original project encountered some errors regarding "gulp-build" command. It was simpler to create a new project and copy all the code instead of hunting down an error.
 
 Live Version [here](https://arnasdickus.github.io/Looplab/)
 
